@@ -1,0 +1,17 @@
+{
+  "baseURL": "https://imperial-qtsoc.com",
+  "description": "Landing page for the Imperial College London Quantum Society",
+  "author": "QTSoc",
+  "title": "Imperial College London Quantum Society",
+  "language": "en",
+  "social": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/#"
+    },
+    {
+      "title": "Discord",
+      "url": "https://discord.gg/8n8ugCq4hR"
+    }
+  ]
+}
